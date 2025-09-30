@@ -1,7 +1,4 @@
-@[TOC](TIM定时器)
-<img src="https://i-blog.csdnimg.cn/direct/4e0765c496384627a1272229bf288f07.png"/>
-<img src="https://i-blog.csdnimg.cn/direct/9b6b2901f63648c582e2bd4e82609f13.png" />
-<img src="https://i-blog.csdnimg.cn/direct/7c359926629340928dcff2c1d28e442b.png"/>
+# 分支编写第一次
 
 # 1.时钟树-铁头山羊
 ## 1.1时钟数
@@ -129,3 +126,4 @@
 FCLK,提供给CPU内核的时钟信号,CPU的主频就是指这个信号; 
 HCLK,提供给高速总线AHB的时钟信号; 
 PCLK,提供给低速总线APB的时钟信号;
+
